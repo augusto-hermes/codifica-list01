@@ -40,8 +40,8 @@ npm install prompt-sync
 ## Passo 3️⃣: Execute o exercício desejado
 
 ```bash
-   node exercicio-XX.js
-   ```
+node exercicio-XX.js
+```
 
 Lembre-se de substituir `exercicio-XX.js` pelo nome do arquivo do exercício que deseja executar.
 
