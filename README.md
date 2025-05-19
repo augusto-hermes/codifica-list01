@@ -26,5 +26,4 @@ Este repositório contém exercícios de programação em JavaScript da Turma 2 
 
 5. **Siga as instruções no terminal**  
    Cada exercício solicitará as informações necessárias e exibirá o resultado no console.
-
----
+   
