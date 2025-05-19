@@ -29,18 +29,26 @@ git clone https://github.com/augusto-hermes/codifica-list01.git
 
 Isso criará uma cópia local do repositório em seu ambiente.
 
-## Passo 2️⃣: Iniciar os contêineres Docker
+## Passo 2️⃣: Instalar as dependências
 
-Navegue até o diretório raiz do projeto e execute o seguinte comando para iniciar os contêineres Docker:
+Navegue até o diretório raiz do projeto e execute o seguinte comando para instalar o prompt-sync:
 
 ```bash
-docker-compose up -d
+npm install prompt-sync
 ```
 
-🐳 Isso iniciará os contêineres necessários para o projeto, incluindo o servidor Laravel e o cliente React.
+## Passo 3️⃣: Execute o exercício desejado
 
-## Passo 3️⃣: Acessar o servidor Laravel
+```bash
+   node exercicio-XX.js
+   ```
 
-Após iniciar os contêineres, você pode acessar o servidor Laravel através do seu navegador no endereço [http://localhost:8000](http://localhost:8000).
+Lembre-se de substituir `exercicio-XX.js` pelo nome do arquivo do exercício que deseja executar.
 
-🎉 Espero que este guia passo a passo tenha sido útil para você abrir e explorar o projeto utilizando Laravel, Docker e React. Sinta-se à vontade para adaptar as instruções de acordo com a estrutura do seu projeto específico. Divirta-se codificando! 😄
+## Passo 4️⃣: Siga as instruções no terminal
+
+Cada exercício solicitará as informações necessárias e exibirá o resultado no console.
+
+---
+
+🎉 Espero que este guia passo a passo tenha sido útil para você abrir e explorar o projeto.
